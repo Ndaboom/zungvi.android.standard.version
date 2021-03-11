@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.core.widget.NestedScrollView>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/refreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="2dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+       />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        />
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/floating_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        app:fab_labelsPosition="left"
+        app:fab_labelStyle="@style/LabelStyle"
+        >
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/ia_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="#FFF"
+            app:fab_title="Zungvi Assistant"
+            app:fab_size="mini"
+            app:fab_icon="@drawable/ia_mic"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/add_post_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="#FFF"
+            app:fab_title="Add a post"
+            app:fab_size="mini"
+            app:fab_icon="@drawable/ic_add_post"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/tv_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="#FFF"
+            app:fab_title="Online Tv"
+            app:fab_size="mini"
+            app:fab_icon="@drawable/ic_baseline_live_tv_24"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/news_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="#FFF"
+            app:fab_title="News"
+            app:fab_size="mini"
+            app:fab_icon="@drawable/ic_baseline_info_24"/>
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</RelativeLayout>

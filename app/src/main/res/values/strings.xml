@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">Zungvi</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid name</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="invalid_confirm_password">The two passwords don\'t match!!</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Explore</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_share">Share </string>
+    <string name="title_news">News</string>
+    <string name="title_rate">Rate</string>
+    <string name="title_tv">Online TV</string>
+    <string name="about_menu">About</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activitydetails_list">Items</string>
+    <string name="title_activitydetails_detail">activity_details Detail</string>
+    <string name="title_activity_terms">Terms and conditions</string>
+    <string name="large_text"><![CDATA[
+        "Terms of use of the website [Text format].\n"
+        "Last updated July 9, 2020.\n\n"
+
+        "These Terms and Conditions constitute a legally binding agreement between you, personally or on behalf of an entity ("you") and Zungvi ("we", "us" or "our"), regarding your access to and use of the Zungvi.com website and any other media, media channel, mobile website or mobile application linked or otherwise connected to it (collectively, the "Site").\n\n"
+        "You acknowledge that by accessing the Site, you have read, understood and agree to be bound by all of these Terms and Conditions. If you do not agree to all of these terms and conditions, you are expressly prohibited from using the Site and you must cease using the Site immediately.\n\n"
+        "Any additional terms and conditions or documents that may be posted on the Site from time to time are expressly incorporated herein by reference. We reserve the right, at our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason.\n\n"
+        "We will notify you of any changes by updating the "last updated" date of these terms and conditions, and you waive any right to receive specific notice of each such change.\n\n"
+        "It is your responsibility to periodically review these Terms and Conditions to keep yourself informed of any updates. You will be subject to changes in the revised terms and conditions and will be deemed to have been notified of such changes and to have accepted them by continuing to use the Site after the date of posting of such revised terms and conditions.\n\n"
+        "The information provided on the Site is not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirements within such jurisdiction or country.\n\n Accordingly, persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.\n\n"
+        "Terms and Conditions \n\n"
+        "1: The site is intended for users who are at least 18 years of age. Persons under the age of 18 are not allowed to register on Zungvi.\n
+        2: All users who are minors in the jurisdiction in which they reside (generally under 18 years of age) must have permission from and be directly supervised by their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and accept these Terms and Conditions before using Zungvi.\n\n"
+        "INTELLECTUAL PROPERTY RIGHTS\n\n"
+
+        "Unless otherwise indicated, Zungvi is our exclusive property and all source code, databases, functionality, software, web site designs, audio, video, text, photographs and graphics of the Application (collectively, the "Content") and trademarks, service marks and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright, trademark and various other intellectual property and unfair competition laws of the Democratic Republic of Congo, foreign jurisdictions and international conventions.\n\n"
+
+        "The Content and Trademarks are provided on the Site "AS IS" for your information and personal use only. Except as expressly provided in these terms and conditions, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, downloaded, displayed, encoded, translated, transmitted, distributed, sold, licensed or otherwise exploited for any commercial purpose whatsoever without our prior express written permission.
+
+Provided that you are authorized to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any Content that you have duly obtained access to, solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in the Site, the Content and the Marks.
+        \n\n"
+        "USER REPRESENTATIONS \n\n"
+        "By using the site, you represent and warrant that :\n"
+        "(1) all registration information you submit will be true, accurate, current and complete;\n
+ (2) you will maintain the accuracy of such information and will promptly update it when necessary;\n
+
+(3) you have legal capacity and you agree to comply with this Agreement.\n
+
+(4) you are not under 13 years of age;]\n
+
+(5) you are not a minor in the jurisdiction in which you reside, or if you are a minor, you have received parental permission to use the Site;\n
+
+(6) you will not access the site by automated or non-human means, whether by bot, script or otherwise;\n
+
+(7) you will not use the site for illegal or unauthorized purposes;\n
+
+(8) your use of the Site will not violate any applicable laws or regulations.\n
+
+If you provide any information that is untrue, inaccurate, not current or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). \n\n"
+        "USER REGISTRATION \n\n"
+        "You may need to register on the site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to delete, reclaim or modify any user name you have chosen if we determine, in our sole discretion, that such user name is inappropriate, obscene or otherwise objectionable.\n\n"
+        "PROHIBITED ACTIVITIES\n\n"
+        "You may not access or use the site for any purpose other than that for which we make it available. The site may not be used in connection with commercial activities, except as specifically approved by us.\n"
+        "As a user of the site, you agree not to do so: \n"
+
+        "1. Systematically retrieve data or any other content from the Site to create or compile, directly or indirectly, a collection, compilation, database or directory without our written permission.\n
+2.make any unauthorized use of the Site, including collecting user names and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretences.\n
+3.circumvent, disable or otherwise interfere with the security features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.\n
+4.engage in unauthorized framing of or linking to the Site.\n
+5. mislead, defraud or otherwise mislead us and other users, in particular in any attempt to learn sensitive account information such as user passwords;\n
+6.misuse our support services or submit false reports of abuse or misconduct.\n
+7.engage in any automated use of the system, such as the use of scripts to send comments or messages, or the use of any data mining, robots or similar data collection and extraction tools.\n
+8.interfere with, disrupt or create an excessive load on the site or the networks or services connected to the site.\n
+9.attempt to impersonate another user or person or use another user's username.\n
+10.sell or otherwise transfer your profile.\n
+11.use any information obtained from the site for the purpose of harassing, abusing or harming another person.\n
+12.use the Site in an effort to compete with us or use the Site and/or the Content for any revenue-generating activity or commercial enterprise.\n
+15.decipher, decompile, disassemble or reverse engineer any software that is in any way part of the Site.\n
+16.attempting to circumvent any measures on the Site designed to prevent or restrict access to the Site, or any part of the Site.\n
+17.harass, annoy, intimidate or threaten any of our employees or agents responsible for providing you with any part of the Site.\n
+18.remove the copyright or other proprietary rights notice from any content.\n
+19.copy or adapt the software on the Site, including but not limited to Flash, PHP, HTML, JavaScript or other code.\n
+20.upload or transmit (or attempt to upload or transmit) viruses, Trojan horses or other items, including excessive use of capitalization and spamming (continuous display of repetitive text), which interfere with any party's uninterrupted use and enjoyment of the Site or which alter, disrupt, impair or interfere with any other party's use, features, functions, operation or maintenance of the Site.\n
+21.upload or transmit (or attempt to upload or transmit) any material that acts as a passive or active information-gathering or transmitting mechanism, including, without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").\n
+22.except as a result of using a standard search engine or Internet browser, use, launch, develop or distribute any automated system, including, without limitation, any spider, robot, cheat utility, scraper or offline reader that accesses the site, or use or launch any script or other unauthorized software.\n
+23.disparage, tarnish or otherwise harm, in our opinion, us and/or the Site.\n
+24.use the Site in a manner inconsistent with any applicable law or regulation.\n\n"
+
+        "USER CONTRIBUTIONS \n\n"
+        "The Site may invite you to discuss, contribute to, or participate in blogs, discussion forums, online forums and other features, and may provide you with the ability to create, submit, publish, post, transmit, perform, publish, distribute or broadcast content. and materials sent to us or found on the Site, including, but not limited to, text, writing, video, audio, photographs, graphics, comments, suggestions, or personal information or other materials (collectively, "Contributions")\n"
+        "Contributions may be viewed by other users of the Site and by third party websites. As such, any Submission you submit may be treated as non-confidential and non-proprietary. When you create or make Contributions available, you represent and warrant that : \n"
+        "1.the creation, distribution, transmission, public display or performance, and access, downloading or copying of your Contributions does not and will not infringe or violate the proprietary rights, including but not limited to, copyrights, patents, trademarks, trade secrets or moral rights of any third party.\n
+2. you are the creator and owner or have the necessary licenses, rights, consents, authorizations and permissions to use and authorize us, the Site and other users of the Site to use your Submissions in the manner contemplated by the Site and these Terms and Conditions.\n
+3. you have the written consent, release and/or permission of each identifiable person in your Submissions to use the name or likeness of each identifiable person to permit the inclusion and use of your Submissions in the manner provided by the Site and these Terms and Conditions.\n
+4.your Contributions are not false, inaccurate or misleading.\n
+5.your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings or other forms of solicitation.\n
+6.your Contributions are not obscene, lewd, lascivious, disgusting, violent, harassing, defamatory, libelous or otherwise objectionable (as determined by us).\n
+7.your Contributions do not ridicule, taunt, disparage, intimidate or abuse anyone.\n
+8.your Contributions do not advocate the violent overthrow of a government or incite, encourage or threaten to harm the physical integrity of another person.\n
+9.your Contributions do not violate any applicable law, regulation, or rule.\n
+10.your Contributions do not violate the privacy or publicity rights of any third party.\n
+11.your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.\n
+12.your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;\n
+13.your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.\n
+14.your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.\n"
+        "Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site.\n"
+        "CONTRIBUTION LICENSE\n\n"
+
+        "By posting your Contributions to any part of the Site [or making Contributions accessible to the Site by linking your account from the Site to any of your social networking accounts], you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicenses of the foregoing. The use and distribution may occur in any media formats and through any media channels.\nThis license will apply to any form, media, or technology now known or hereafter developed, and includes our use of your name, company name, and franchise name, as applicable, and any of the trademarks, service marks, trade names, logos, and personal and commercial images you provide. You waive all moral rights in your Contributions, and you warrant that moral rights have not otherwise been asserted in your Contributions.\nWe do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site.\n You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.\nWe have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.  \n\n"
+
+        "GUIDELINES FOR REVIEWS\n\n"
+        "We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria:\n(1) you should have firsthand experience with the person/entity being reviewed;
+
+(2)your reviews should not contain offensive profanity, or abusive, racist, offensive, or hate language;
+
+(3) your assessments must not contain discriminatory references based on religion, race, gender, national origin, age, marital status, sexual orientation or disability;
+
+(4) your assessments must not contain references to illegal activities;
+
+(5) you must not be affiliated with competitors if you publish negative reviews;
+
+(6) you must not draw conclusions as to the legality of your conduct;
+
+(7) you must not publish false or misleading statements;
+
+(8) you may not mount a campaign encouraging others to publish opinions, whether positive or negative.  "
+        "We may accept, reject or remove notices in our sole discretion. We have absolutely no obligation to screen or remove postings, even if someone considers them objectionable or inaccurate. Notices are not endorsed by us and do not necessarily represent our views or those of our affiliates or partners.\n"
+        "We assume no responsibility for any review or for any claim, liability or loss resulting from a review. By posting a comment, you hereby grant us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, transferable, assignable and sub-licensable right and license to reproduce, modify, translate, transmit by any means, display, perform and/or distribute any content related to the comments.\n\n"
+        "MOBILE APPLICATION LICENSE\n\n"
+
+        "User licence
+If you access the Site via a mobile application, then we grant you a revocable, non-exclusive, non-transferable and limited right to install and use the mobile application on wireless electronic devices that you own or control, and to access and use the mobile application on such devices strictly in accordance with the terms and conditions of this mobile application license contained in these Terms and Conditions.
+
+You may not :
+
+(1) decompile, reverse engineer, disassemble, attempt to derive the source code or decrypt the Application;
+
+(2) make any modification, adaptation, improvement, enhancement, translation or derivative work of the Application;
+
+(3) violate any applicable law, rule or regulation in connection with your access to or use of the Application;
+
+(4) remove, alter or obscure any proprietary notices (including any copyright or trademark notices) displayed by us or the licensors of the Application;
+
+(5) use the Application for any revenue-generating activity, business venture or other purpose for which it is not designed or intended;
+
+(6) make the Application available on a network or other environment allowing access or use by multiple devices or users at the same time;
+
+(7) use the application to create a product, service or software that directly or indirectly competes with or in any way replaces the application;
+
+(8) use the application to send automated queries to any website or to send unsolicited commercial e-mail;
+
+(9)use any proprietary information or any of our interfaces or other intellectual property in the design, development, manufacture, licensing or distribution of applications, accessories or devices for use with the application.\n\n"
+
+        "Apple and Android Devices
+The following terms apply when you use a mobile application obtained from either the Apple Store or Google Play (each an “App Distributor”) to access the Site:
+
+(1) the license granted to you for our mobile application is limited to a non-transferable license to use the application on a device that utilizes the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor’s terms of service;
+
+(2) we are responsible for providing any maintenance and support services with respect to the mobile application as specified in the terms and conditions of this mobile application license contained in these Terms and Conditions or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the mobile application;
+
+(3) in the event of any failure of the mobile application to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the mobile application, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the mobile application;
+
+(4) you represent and warrant that (i) you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a “terrorist supporting” country and (ii) you are not listed on any U.S. government list of prohibited or restricted parties;
+
+(5) you must comply with applicable third-party terms of agreement when using the mobile application, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the mobile application;
+
+6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Terms and Conditions, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Terms and Conditions against you as a third-party beneficiary thereof.
+
+SOCIAL MEDIA
+
+As part of the functionality of the Site, you may link your account with online accounts you have with third-party service providers (each such account, a “Third-Party Account”) by either: (1) providing your Third-Party Account login information through the Site; or (2) allowing us to access your Third-Party Account, as is permitted under the applicable terms and conditions that govern your use of each Third-Party Account.
+
+You represent and warrant that you are entitled to disclose your Third-Party Account login information to us and/or grant us access to your Third-Party Account, without breach by you of any of the terms and conditions that govern your use of the applicable Third-Party Account, and without obligating us to pay any fees or making us subject to any usage limitations imposed by the third-party service provider of the Third-Party Account.
+
+By granting us access to any Third-Party Accounts, you understand that (1) we may access, make available, and store (if applicable) any content that you have provided to and stored in your Third-Party Account (the “Social Network Content”) so that it is available on and through the Site via your account, including without limitation any friend lists and (2) we may submit to and receive from your Third-Party Account additional information to the extent you are notified when you link your account with the Third-Party Account.
+
+Depending on the Third-Party Accounts you choose and subject to the privacy settings
+that you have set in such Third-Party Accounts, personally identifiable information that you post to your Third-Party Accounts may be available on and through your account on the Site.
+
+Please note that if a Third-Party Account or associated service becomes unavailable or our access to such Third-Party Account is terminated by the third-party service provider, then Social Network Content may no longer be available on and through the Site. You will have the ability to disable the connection between your account on the Site and your Third-Party Accounts at any time.
+
+PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR THIRD-PARTY ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS.
+We make no effort to review any Social Network Content for any purpose, including but not limited to, for accuracy, legality, or non-infringement, and we are not responsible for any Social Network Content.
+
+You acknowledge and agree that we may access your email address book associated with a Third-Party Account and your contacts list stored on your mobile device or tablet computer solely for purposes of identifying and informing you of those contacts who have also registered to use the Site.
+
+You can deactivate the connection between the Site and your Third-Party Account by contacting us using the contact information below or through your account settings (if applicable). We will attempt to delete any information stored on our servers that was obtained through such Third-Party Account, except the username and profile picture that become associated with your account.
+
+SUBMISSIONS
+
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+
+You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
+
+
+THIRD-PARTY WEBSITES AND CONTENT
+
+The Site may contain (or you may be sent via the Site) links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content").
+
+Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site or any Third-Party Content posted on, available through, or installed from the Site, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content.
+
+Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Terms and Conditions no longer govern.
+
+You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site or relating to any applications you use or install from the Site. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party.
+
+You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us harmless from any harm caused by your purchase of such products or services. Additionally, you shall hold us harmless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
+
+ADVERTISERS
+
+We allow advertisers to display their advertisements and other information in certain areas of the Site, such as sidebar advertisements or banner advertisements. If you are an advertiser, you shall take full responsibility for any advertisements you place on the Site and any services provided on the Site or products sold through those advertisements.
+
+Further, as an advertiser, you warrant and represent that you possess all rights and authority to place advertisements on the Site, including, but not limited to, intellectual property rights, publicity rights, and contractual rights.
+
+[As an advertiser, you agree that such advertisements are subject to our Digital Millennium Copyright Act (“DMCA”) Notice and Policy provisions as described below, and you understand and agree there will be no refund or other compensation for DMCA takedown-related issues.] We simply provide the space to place such advertisements, and we have no other relationship with advertisers.
+ 
+SITE MANAGEMENT
+
+We reserve the right, but not the obligation, to: 
+
+(1) monitor the Site for violations of these Terms and Conditions;
+
+(2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms and Conditions, including without limitation, reporting such user to law enforcement authorities;
+
+(3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof;
+
+(4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems;
+
+(5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
+
+PRIVACY POLICY
+
+We care about data privacy and security. Please review our Privacy Policy https://zungvi.com/privacy/ posted on the Site]. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in the United States.
+
+If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+[Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.]
+
+DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA) NOTICE AND POLICY
+\n\n"
+MODIFICATIONS AND INTERRUPTIONS
+
+We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time.
+
+We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
+
+We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors.
+
+We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site.
+
+Nothing in these Terms and Conditions will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
+DISCLAIMER
+
+THE SITE IS PROVIDED AS IS AND ACCORDING TO ITS AVAILABILITY. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES IS AT YOUR OWN RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE SITE AND YOUR USE OF IT, for more zungvi.com/terms.php \n
+
+CONTACT  US\n
+mail : info@zungvi.com
+    ]]></string>
+
+    <string name="about_text">info@zungvi.com</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">124645586174297</string>
+    <string name="fb_login_protocol_scheme">fb184271325994059</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_about">aboutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_weather">Weather</string>
+
+
+</resources>

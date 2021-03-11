@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22009D</color>
+    <color name="colorPrimaryDark">#22009D</color>
+    <color name="colorAccent">#2A07AC</color>
+    <color name="light_gray">#d8d6d5</color>
+    <color name="white">#ffffff</color>
+    <color name="posts_counter_bg">#df3e3e3e</color>
+    <color name="primary_dark_text">#28333D</color>
+    <color name="secondary_text">#434343</color>
+    <color name="secondary_light">#979797</color>
+
+
+    <color name="like_icon_activated">#FF5252</color>
+    <color name="icons_counter_color">#828181</color>
+    <color name="circle_image_shadow">#8b8b8b</color>
+
+    <color name="send_comment_button_activated">#0097d3</color>
+    <color name="send_comment_button_deactivated">#7fcbe9</color>
+
+
+    <color name="background_color">#0099CC</color>
+    <color name="follow_button_pressed_color">#0087BC</color>
+    <color name="follow_button_light_color">@color/white</color>
+    <color name="follow_button_light_pressed_color">#f7f7f7</color>
+    <color name="orange">#E9AC42</color>
+
+    <color name="grey">#eeefee</color>
+    <color name="red">#CE0700</color>
+    <color name="black">#191819</color>
+</resources>
